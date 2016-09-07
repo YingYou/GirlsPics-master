@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yangwei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_b2b40309c798c690035dc368f73797f5a411a63c.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/libs/zxing-4.7.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="890953985d282a60a2c2b743131f75863d0ce803">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/zxing-4.7.3_4e3df12084dc888043902af9543816a85bea3ecd.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/CocoUnion_AD_SDK_Android_v4.1.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="31b0957fae15ea76d74b3ea1108737b48c8689ed">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/CocoUnion_AD_SDK_Android_v4.1.2_52535ddb2ce1a15b5ce2039d1abb2b5dd4a154fe.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes.photoview/library/1.2.2/82eda228c92c1aab3c0c8626497f13baf249cdb4/library-1.2.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="82eda228c92c1aab3c0c8626497f13baf249cdb4">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/library-1.2.2_e6ffd83141c15a73e60560cb09a775283e33b86b.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/okhttp-3.2.0_b33cd9daec11e9c496a97d855165b49f26281338.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.1/b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8/butterknife-5.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/butterknife-5.1.1_9f0d546dd4cf718b3848d45f6667769674317249.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/umeng-update-v2.6.0.1_8cac510269d622a9ed494a135e3ceea3564225d0.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.3/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8174013f25a7d1f9bb4e50e2e3dc11254dee1442">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.github.afollestad.material-dialogs-core-0.8.5.3_14d8fe2a6bddb4ceaafb360895036b7fddff10c9.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2a24cba08e1d865a79e61335f5a1bd64d520106d">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.4_d70c1b54e695f6eb586c41bbfd9b1f4a58a98a5c.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/domob_android_sdk.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cf7d3cee54b3ce1cf9461a0f8d399fba8f99f303">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/domob_android_sdk_bae0b0afcf931920aa44643342fc37358127cded.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/tracking.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3034755d6a342256fe3af1928bf5928b5718cee2">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/tracking_038e39d5f8fc5ee4822e6ee7e6f42ed4101de654.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/xadsdk.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bddca2e282ccfa15f622e7d866e5754fac253558">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/xadsdk_f0c1a7d7a9e7cb61b5fed041cd6952edec56220a.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_cc23eacbbe48d5ef910283d6944fd4ccc39b0787.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_08955f2ace4722ebd70761277e660893f8b816bb.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_ae8636b4d2a0cdc49439007d550ec2e25e15e8eb.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/comscore.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ad16c33559b0f5a0fedd39f236a824d2c1c4e9c">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/comscore_51b08a65ffb69ba5bad0f9eacd1d7b9f9ccd367b.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/gson-2.6.1_c5e6010c5601996a215b83ce02d30d574efff073.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/baseproject.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e57f04c7df657b688126eaf54ee271097d701a9a">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/baseproject_5cacc3afe2f11a1e5aab69d264c674fb0d6ec4bb.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_62774f44bed4f79eb522d982bcdbec90e928b4c5.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3_4b1e119b81c2edf75cfcd532a4239566486748a9.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0/bf61256d9868ea053e24d77669c55c80db375c15/adapter-rxjava-2.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bf61256d9868ea053e24d77669c55c80db375c15">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.0_67e4b4010d60fd805ad342894889ea09b8ff4cbd.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/eventbus-2.4.0_b58dd0781b7fd6ec1a859cd0850b4b943256c955.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/playerBase.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6fb56f8174821057c2e56f8d90a8c42597f5db4">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/playerBase_0fe69fc6f08c344929910f417f5fa584c8ed432f.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/6.0.1/aab9085bca0c26dcb9cb11837a5f5e22cc102a5e/analytics-6.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/analytics-6.0.1_d06ea58d0b804850c5d8b0c2f50eac0ef803bafe.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/okio-1.6.0_3f60b48462b509feaa4cc6c50f3a8a79fe51e231.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/libs/ZBarDecoder.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="491976f010e6196c0b1a0470c4657f295ed933fc">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/ZBarDecoder_6d29f73239a4586657dbfe5f302613537e26175a.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c83893593c6b398004a089f3e58bceedf042ccca">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/instant-run-bootstrap_662a865f1486b24878f2646ef2ef9f8cbc93329a.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/systembartint-1.0.3_592741d653f10b7c35bb0eccc805c9237f03cfeb.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/YoukuAnalytics.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="faa7606ba43bc16df85dec36026d226c2ea57023">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/YoukuAnalytics_7efea7db6fbdd0e9bad7f3512d7e1180fe605eab.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/fastjson-1.1.24.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cf60dc5065ef7f48ee1a2503aea8e0270578b30d">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/fastjson-1.1.24_15d22ba89012b2c1b720c6566598068062119375.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.umeng/fb/5.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="30447d190372c4ad8ecec92ccb510bfaadf4f603">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.umeng-fb-5.4.0_e0a1f290d369adc4bfde800769136bb37a27c885.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/me.gujun.android.taggroup/library/1.4/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f91fda9bdd268cd21a0ef9d8f40154ded0bd4c53">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/me.gujun.android.taggroup-library-1.4_904b2661e9d9f5bfd6d529afb1b7fb42a0b20483.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/retrofit-2.0.0_293ed8e10918f2570b70a9eb6e385b304f6f945a.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dc538f7e1cb0ce7913508f8e1e9da7c90bd0e195">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/instant-run_a41ebac9efe75be0020343a2231e1dbb89a8f3b7.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_8173f0f8a10d706192f6bc95f5fcd1e7d958a9d1.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/library-2.4.0_d81897f2b01f7d18b054f61fa6f6399ed722cf1e.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_013435084060bfe1c8972b8e2b752ff760823d4d.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_4b1f56ce1e5ec89ff0ca6ebfc9e69d1581c5abd0.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/mobisageSDK.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="11fb7697cf746e0d95baa81bb26cfd7a175573c7">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/mobisageSDK_b24f05b4db2163548d018fc0b255c0ad12105b7b.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.umeng/message/2.4.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="29939a737c58fd8eb96e3a9eda9ecccb1817edd2">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.umeng-message-2.4.1_b8676d7ec86da0a132b9997367ad9a4222ca24c2.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.umeng/message/2.4.1/jars/libs/com.umeng.message.lib_v2.4.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2e43bd4164f510a6b4be65f569356d79237b36ed">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.umeng.message.lib_v2.4.1_8d0f3ce9495522ba3934d4968958cd294006383c.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_259e4d67fa6c3b1d6f2ed0ee2bc467e62162bf63.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/InMobi-4.0.4.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="70799a9a458c1ec87f532c708c06822607db6b20">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/InMobi-4.0.4_7b0f366f82909c8d7b50011aeb43e2280c738cda.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_ea7bd0a30a5fce8adbdcce961ba4c28bcacf7886.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_f69641414457933f1228c44ab970795ee47cd218.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/exploded-aar/GirlsPics-master/library_youku/unspecified/jars/libs/mAppTracker.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c70d40c6ae8ab4ef81b09572fe63c612511215c0">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/mAppTracker_66c59a736758470895c0b720a5618d497fa82e31.jar" />
+    </item>
+    <item
+        jar="/Users/yangwei/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/yangwei/Downloads/androidCode/GirlsPics-master/PictureModel/build/intermediates/pre-dexed/debug/rxjava-1.1.6_497442efbc4ce4e264d4ec304b81695adb921884.jar" />
+    </item>
+
+</items>

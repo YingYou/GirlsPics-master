@@ -1,0 +1,92 @@
+/*
+ * Copyright (c) 2015 [1076559197@qq.com | tchen0707@gmail.com]
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License”);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '24.0.1'
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:cardview-v7:23.1.1'
+    compile 'com.android.support:design:23+'
+    compile 'com.jakewharton:butterknife:5.1.1'
+//    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'me.gujun.android.taggroup:library:1.4@aar'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.readystatesoftware.systembartint:systembartint:1.0.3'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+    compile 'com.github.chrisbanes.photoview:library:1.2.2'
+    compile('com.github.afollestad.material-dialogs:core:0.8.5.3@aar') {
+        transitive = true
+    }
+    compile 'de.greenrobot:eventbus:2.4.0'
+    compile 'com.squareup.okhttp3:okhttp:3.2.0'
+    compile 'com.squareup.retrofit2:retrofit:2.0.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0'
+    compile 'io.reactivex:rxandroid:1.2.1'
+// Because RxAndroid releases are few and far between, it is recommended you also
+// explicitly depend on RxJava's latest version for bug fixes and new features.
+    compile 'io.reactivex:rxjava:1.1.6'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0'
+    compile 'com.android.support:multidex:1.0.0'
+    /*RxAndroid  的依赖(异步)
+   * 讲解 http://gank.io/post/560e15be2dca930e00da1083
+   *git 地址 https://github.com/ReactiveX/RxAndroid
+   * */
+//    compile 'io.reactivex:rxandroid:1.2.0'
+//    compile 'io.reactivex:rxjava:1.1.5'
+
+    /* glide 的依赖 图片加载库
+     * 讲解http://blog.csdn.net/fancylovejava/article/details/44747759
+     * git https://github.com/bumptech/glide
+     */
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+//
+    compile 'in.srain.cube:grid-view-with-header-footer:1.0.12'
+//    compile 'jp.wasabeef:glide-transformations:2.0.1'
+    /*
+    * git 地址  https://github.com/baoyongzhang/Treasure
+    */
+
+    compile 'com.baoyz.treasure:treasure:0.5.0'
+    provided 'com.baoyz.treasure:treasure-compiler:0.5.0'
+}
